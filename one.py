@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 import sys
-print "Hello Feizoubuke!"
+print "Hello Ansible!"
